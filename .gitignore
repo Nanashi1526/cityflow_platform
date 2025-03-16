@@ -2,4 +2,5 @@
 *.log
 *.env.local
 temp
-.env
+config.bat
+node_modules
